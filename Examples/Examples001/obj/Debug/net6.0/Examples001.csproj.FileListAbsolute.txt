@@ -1,0 +1,15 @@
+/home/navat/Examples1/Examples/Examples001/bin/Debug/net6.0/Examples001
+/home/navat/Examples1/Examples/Examples001/bin/Debug/net6.0/Examples001.deps.json
+/home/navat/Examples1/Examples/Examples001/bin/Debug/net6.0/Examples001.runtimeconfig.json
+/home/navat/Examples1/Examples/Examples001/bin/Debug/net6.0/Examples001.dll
+/home/navat/Examples1/Examples/Examples001/bin/Debug/net6.0/Examples001.pdb
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.csproj.AssemblyReference.cache
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.GeneratedMSBuildEditorConfig.editorconfig
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.AssemblyInfoInputs.cache
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.AssemblyInfo.cs
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.csproj.CoreCompileInputs.cache
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.dll
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/refint/Examples001.dll
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.pdb
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/Examples001.genruntimeconfig.cache
+/home/navat/Examples1/Examples/Examples001/obj/Debug/net6.0/ref/Examples001.dll
